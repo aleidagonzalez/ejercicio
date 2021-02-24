@@ -11,6 +11,8 @@ export function Home() {
 			<p>
 				<img src={rigoImage} />
 			</p>
+			<button id="hola">Hola</button>
+
 			<a href="#" className="btn btn-success">
 				If you see this green button... bootstrap is working
 			</a>
